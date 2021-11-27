@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Therapiya",
+        "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+        "img": "http://metropolitanhost.com/themes/themeforest/html/docfind/assets/img/home-1/300x240.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Dentistry",
+        "description": "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+        "img": "http://metropolitanhost.com/themes/themeforest/html/docfind/assets/img/home-1/300x240-0.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Virusology",
+        "description": "Little Blind Text didn’t listen. She packed her seven versalia, put her initial into the belt.",
+        "img": "http://metropolitanhost.com/themes/themeforest/html/docfind/assets/img/home-1/300x240-1.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Teeth Cleaning",
+        "description": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.",
+        "img": "https://health-center.vamtam.com/wp-content/uploads/2014/03/photodune-366445-dental-examination-m-360x276@2x.jpg"
+    },
+    {
+        "id": 5,
+        "title": "The Beauty of the Childhood",
+        "description": "Working from home meant we could vary snack and coffee breaks, change our desks or…",
+        "img": "https://health-center.vamtam.com/wp-content/uploads/2014/03/photodune-5497991-plastic-surgeon-or-doctor-with-patient-m-360x276@2x.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Pharmocology",
+        "description": "Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.",
+        "img": "https://health-center.vamtam.com/wp-content/uploads/2014/03/photodune-7064563-stressed-woman-with-computer-and-documents-s-360x276@2x.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Sports Guards",
+        "description": "Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch.",
+        "img": "https://health-center.vamtam.com/wp-content/uploads/2014/03/photodune-6706914-young-woman-jogging-running-outdoors-m-360x276@2x.jpg"
+    }
+]
